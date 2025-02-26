@@ -1,0 +1,147 @@
+
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+/* Wrapper for the slideshow */
+.wrapper {
+    position: relative;
+}
+
+/* Each individual slide */
+.slick-custom {
+    position: relative;
+}
+
+/* Textbox styling, centered and responsive */
+.slick-textbox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%); /* Adjust vertical position to be above center */
+    z-index: 10;
+    width: 60%; /* Adjust width to fit better */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px; /* Add padding to the sides */
+}
+
+/* Input styling */
+.middle-textbox {
+    width: 100%;
+    padding: 10px 40px 10px 10px; /* Space for the search icon */
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1; /* Ensure input is on top */
+    position: relative;
+}
+
+/* Search icon next to the textbox */
+.search-icon {
+    position: absolute;
+    right: 10px; /* Adjust spacing as needed */
+    font-size: 34px;
+    cursor: pointer;
+    color: #666;
+    z-index: 2; /* Ensure icon is above input but does not overlap */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .slick-textbox {
+        width: 80%; /* Increase width for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .slick-textbox {
+        width: 90%; /* Further increase for very small screens */
+    }
+}
+
+
+
+.Map-Section {
+    padding: 20px;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map-container {
+    width: 100%;
+    max-width: 1000px;
+    height: 500px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+.location-input {
+    margin-bottom: 10px;
+}
+
+.report-btn,
+.clean-btn {
+    position: absolute;
+    top: 10px;
+    z-index: 1000;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.report-btn {
+    right: 10px;
+    background-color: red;
+    color: white;
+}
+
+.clean-btn {
+    right: 80px;
+    background-color: orange;
+    color: white;
+}
+.map-container {
+    height: 100vh; /* Full viewport height, adjust as needed */
+    width: 100%;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}

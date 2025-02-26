@@ -1,0 +1,159 @@
+/* Slider */
+.slick-slider
+{
+    position: relative;
+
+    display: block;
+    box-sizing: border-box;
+
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+.custom-icon img.profile-pic {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+.logout-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 12px; /* Reduced padding for smaller button */
+    color: #333; /* Dark gray for the text */
+    background-color: white; /* White button to match the theme */
+    border: 1px solid #333; /* Thinner border for a sleeker look */
+    border-radius: 20px; /* Rounded edges */
+    text-decoration: none;
+    font-weight: 500; /* Slightly lighter font weight */
+    font-size: 14px; /* Smaller font size */
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Softer shadow */
+}
+
+    .logout-btn:hover {
+        background-color: #f0f0f0; /* Light gray on hover */
+        color: #000; /* Darker text on hover */
+        text-decoration: none;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15); /* Slightly larger shadow */
+    }
+
+    .logout-btn i {
+        font-size: 16px; /* Smaller icon */
+        color: #333; /* Icon color matching text */
+    }
+
+.profile-pic {
+    width: 35px;
+    height: 35px; /* Smaller profile picture */
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #333; /* Matching the button's border */
+}

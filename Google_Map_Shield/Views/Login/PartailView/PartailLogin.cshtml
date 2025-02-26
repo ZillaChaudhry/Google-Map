@@ -1,0 +1,62 @@
+﻿
+<link href="~/login/logins.css" rel="stylesheet" />
+
+<div id="LoginPage">
+    <div class="title-text">
+        <div class="title login">Login Form</div>
+        <div class="title signup">Signup Form</div>
+    </div>
+    <div class="form-container">
+        <div class="slide-controls">
+            <input type="radio" name="slide" id="login" checked>
+            <input type="radio" name="slide" id="signup">
+            <label for="login" class="slide login">Login</label>
+            <label for="signup" class="slide signup">Signup</label>
+            <div class="slider-tab"></div>
+        </div>
+        <div class="form-inner">
+            <!-- Login Form -->
+            <form class="login" method="post" action="#" onsubmit="Login(event)">
+                <div class="field">
+                    <input type="email" name="email" id="email" placeholder="Email Address" required>
+                </div>
+                <div class="field">
+                    <input type="password" name="password" id="password" placeholder="Password" required>
+                </div>
+                <div class="pass-link"><a href="#" onclick="Forgotpasswordenteremail(event)">Forgot password?</a></div>
+                <div class="field btn">
+                    <div class="btn-layer"></div>
+                    <input type="submit" value="Login">
+                </div>
+                <div class="signup-link">Create an account <a href="#">Signup now</a></div>
+            </form>
+
+            <!-- Signup Form -->
+            <form class="signup" action="#" enctype="multipart/form-data" onsubmit="Signup(event)">
+                <div class="field">
+                    <input type="text" name="name" placeholder="Name" id="name" required title="Name must be at least 8 characters and contain both letters and numbers.">
+
+                </div>
+                <div class="field">
+                    <input type="email" name="email" id="email" placeholder="Email Address" required>
+                </div>
+                <div class="field">
+                    <input type="password" minlength="8" pattern="^(?=.*[a-zA-Z])(?=.*\d)[a-zA-Z\d]{8,}$" name="password" placeholder="Password" id="password" required>
+                </div>
+                <div class="field">
+                    <label for="file-upload" class="custom-file-upload" id="file-upload-label">
+                        Profile Picture
+                    </label>
+                    <input id="file-upload" name="profilePic" type="file" accept="image/*">
+                </div>
+                <div class="field btn">
+                    <div class="btn-layer"></div>
+                    <input type="submit" value="Signup">
+                </div>
+                <div class="login-link">Already have an account? <a href="#">Login</a></div>
+            </form>
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,36 @@
+﻿.footer {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.social-icons a {
+    color: #fff; /* White icons */
+    font-size: 24px;
+    margin: 0 15px;
+    transition: color 0.3s;
+}
+
+    .social-icons a:hover {
+        color: #d63031; /* Red on hover */
+    }
+
+.footer p {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+@media (max-width: 576px) {
+    .social-icons a {
+        font-size: 20px;
+        margin: 0 10px;
+    }
+
+    .footer p {
+        font-size: 12px;
+    }
+}
+

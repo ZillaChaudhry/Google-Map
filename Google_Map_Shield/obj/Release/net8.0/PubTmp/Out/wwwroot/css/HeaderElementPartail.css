@@ -1,0 +1,15 @@
+﻿.reportclass {
+    margin-left: 650px; /* Default for PC screens */
+}
+.Homeclass {
+    margin-left: 400px; /* Default for PC screens */
+}
+
+@media (max-width: 777px) {
+    .reportclass {
+        margin-left: 0px;
+    }
+    .Homeclass {
+        margin-left: 0px;
+    }
+}

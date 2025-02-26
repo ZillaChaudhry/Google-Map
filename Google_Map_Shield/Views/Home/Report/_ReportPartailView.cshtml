@@ -1,0 +1,76 @@
+﻿<link href="~/css/reportpage.css" rel="stylesheet" />
+<link href="~/login/verifys.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<div id="VerificationPage" style="margin-top:10%; margin-bottom:2%;">
+    <div class="title-text">
+        <div class="title verification">
+            Report Page
+        </div>
+    </div>
+    <div class="form-container">
+        <div class="form-inner">
+            <form id="reportForm" action="#" method="post" onsubmit="GetReport(event)" novalidate>
+
+                <!-- Title Field with Error Message Space -->
+                <div class="field">
+                    <input type="text" name="title" id="title" placeholder="Report Title (with Crime and Location) *" maxlength="50" required>
+                </div>
+
+                <!-- Description Field with Error Message Space -->
+                <div class="field">
+                    <textarea name="description" id="description" placeholder="Enter Report Description (up to 500 characters)" rows="4" maxlength="500" required></textarea>
+                </div>
+
+                <div class="field">
+                    <label for="vidpicproof" class="file-label" style="margin-bottom:40px;margin-top:40px;">
+                        <span id="file-name" class="placeholder-text">Submit your proof (video or image - optional)</span>
+                        <input type="file" name="vidpicproof" id="vidpicproof" accept="image/*,video/*" style="display:none;" onchange="showFileName()">
+                    </label>
+                </div>
+
+
+                <!-- Review Type Radio Group with Error Message Space -->
+                <div class="field radio-group" style="margin-top:75px">
+                    <span class="radio-label">Choose your review:</span>
+                    <label class="custom-radio">
+                        <input type="radio" name="review_type" value="good" required>
+                        <span class="radio-btn"></span>
+                        Good View
+                    </label>
+                    <label class="custom-radio" style="margin-left:78px;">
+                        <input type="radio" name="review_type" value="bad" required>
+                        <span class="radio-btn"></span>
+                        Bad Review
+                    </label>
+                </div>
+
+                <!-- Map Section -->
+                <div class="map-container">
+                    <button class="report-btn" id="report-btn" type="button">Report</button>
+                    <button class="clean-btn" id="clean-btn" type="button">Clean</button>
+                    <button class="clean-btn myloc" id="my-location" type="button">My Location</button>
+                    <div class="search-container">
+                        <i class="search-icon" id="search-icon" style="cursor:pointer;">🔍</i>
+                        <input type="text" id="location-search" class="form-control" placeholder="Search for a location..." />
+                    </div>
+                    <div id="map"></div>
+
+                    <!-- Latitude and Longitude Hidden Fields -->
+                    <input type="hidden" id="fromlatitude" name="fromlatitude" />
+                    <input type="hidden" id="fromlongitude" name="fromlongitude" />
+                    <input type="hidden" id="tolatitude" name="tolatitude" />
+                    <input type="hidden" id="tolongitude" name="tolongitude" />
+                </div>
+
+                <!-- Submit Button -->
+                <div class="field btn">
+                    <div class="btn-layer"></div>
+                    <input type="submit" value="Submit">
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

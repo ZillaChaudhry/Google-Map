@@ -1,0 +1,32 @@
+﻿@if (!string.IsNullOrEmpty(Context.Session.GetString("UserEmail")))
+{
+    if (!string.IsNullOrEmpty(Context.Session.GetString("ProfilePic")) && Context.Session.GetString("Role") == "Admin")
+    {
+        <a href="#" class="custom-icon me-3" style="pointer-events: none;">
+            <img src="/@Context.Session.GetString("ProfilePic")" alt="Profile" class="profile-pic" />
+        </a>
+
+        <a href="#" class="logout-btn" onclick="Logout(event)">
+            <i class="bi-box-arrow-right me-2"></i> Logout
+        </a>
+    }
+    else if (!string.IsNullOrEmpty(Context.Session.GetString("ProfilePic")))
+    {
+        <a href="#" class="custom-icon me-3" onclick="updateprofile(event)">
+            <img src="/@Context.Session.GetString("ProfilePic")" alt="Profile" class="profile-pic" />
+        </a>
+        <a href="#" class="logout-btn" onclick="Logout(event)">
+            <i class="bi-box-arrow-right me-2"></i> Logout
+        </a>
+    }else
+    {
+        <a href="#" class="bi-person custom-icon me-3" onclick="updateprofile(event)"></a>
+        <a href="#" class="logout-btn" onclick="Logout(event)">
+            <i class="bi-box-arrow-right me-2"></i> Logout
+        </a>
+    }
+}
+else
+{
+    <a href="#" class="bi-person custom-icon me-3" onclick="LoginRedirect(event)"></a>
+}

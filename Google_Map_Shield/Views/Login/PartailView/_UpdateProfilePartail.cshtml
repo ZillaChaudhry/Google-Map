@@ -1,0 +1,104 @@
+﻿<!-- Include Bootstrap CSS/JS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<!-- Include Custom CSS -->
+<link href="~/login/updateprofiles.css" rel="stylesheet">
+<link href="~/login/login.css" rel="stylesheet">
+
+
+
+<!-- Your Update Profile Page -->
+<div id="UpdateProfilePage" style="margin-top:2%;margin-bottom:2%;">
+    <div class="main-card">
+        <div class="card-header">
+            Update Profile
+        </div>
+        <div class="card-body">
+            <form id="updateProfileForm" action="#" method="post" enctype="multipart/form-data" onsubmit="updateProfiles(event)">
+                <!-- Profile Picture Section -->
+                <div class="profile-pic-container text-center mb-4">
+                    <img id="profilePic" name="profilePic" src="" alt="Profile Picture" class="profile-pic" style="cursor: pointer;" onclick="showImageOptions()">
+                    <input type="file" id="profilePicUpload" name="profilePic" style="display:none;" onchange="previewProfilePic(event)" accept="image/*">
+                    <div id="fileName" class="mt-2" style="font-size: 14px;"></div>
+                </div>
+
+                <!-- Main Profile Information -->
+                <div class="field">
+                    <label for="name">Name</label>
+                    <input type="text" name="name" id="name" value="" required>
+                </div>
+                
+                <!-- Password Update Card -->
+                <input type="hidden" id="Password" name="Password" value="" />
+
+                <div class="password-card">
+                    <div class="card-header">
+                        Change Password
+                    </div>
+                    <div class="card-body">
+
+                        <div class="field">
+                            <label for="oldPassword">Old Password</label>
+                            <input type="password" name="oldPassword" id="oldPassword" placeholder="Enter Old Password" autocomplete="off">
+                            <small class="error" id="oldPasswordError"></small>
+                        </div>
+
+                            <div class="field">
+                                <label for="newPassword">New Password</label>
+                                <input type="password" name="newPassword" id="newPassword" placeholder="New Password (leave blank if unchanged)">
+                                <small class="error" id="newPasswordError"></small>
+                            </div>
+                            
+                    </div>
+                </div>
+
+                <!-- Update Button -->
+                <div class="field btn" >
+                    <div class="btn-layer"></div>
+                    <input type="submit" value="Update Profile" class="btn-update">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="viewImageModal" tabindex="-1" role="dialog" aria-labelledby="viewImageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="viewImageModalLabel">Profile Picture</h5>
+                <!-- Close button with ID -->
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="closeModalButton" onclick="Closepopup()">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <img id="viewImageModalContent" src="" alt="Profile Image" class="img-fluid w-100">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for Image Options -->
+<div class="modal fade" id="imageOptionsModal" tabindex="-1" role="dialog" aria-labelledby="imageOptionsModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="imageOptionsModalLabel">Profile Image Options</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center">
+                <!-- Profile Image Preview in Modal -->
+                <img id="modalProfilePic" src="Login/ProfileImage/6c5686b1-6e3d-48ef-a90b-3624048f8d18.png" alt="Profile Picture" class="profile-pic" style="width: 150px; height: 150px;">
+                <div class="mt-3">
+                    <button type="button" class="btn btn-primary" onclick="viewImage()">View Image</button>
+                    <button type="button" class="btn btn-secondary" onclick="document.getElementById('profilePicUpload').click()">Update Image</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

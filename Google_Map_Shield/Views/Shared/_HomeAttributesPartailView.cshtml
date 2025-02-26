@@ -1,0 +1,37 @@
+﻿<link href="~/css/headerelementpartail.css" rel="stylesheet" />
+
+<ul class="navbar-nav mx-auto">
+    @if (!string.IsNullOrEmpty(Context.Session.GetString("UserEmail")))
+    {
+        if (!string.IsNullOrEmpty(Context.Session.GetString("Role")))
+        {
+            <li class="nav-item reportclass">
+                <a class="nav-link active" href="#" onclick="ShowReport(event)">
+                    <i class="fas fa-file-alt" style="font-size: 24px;"></i>
+                </a>
+            </li>
+
+        }
+        else
+        {
+            <li class="nav-item reportclass">
+                <a class="nav-link active" href="#" onclick="ReportPage(event)">Report</a>
+            </li>
+        }
+    }
+    else
+    {
+        <li class="nav-item Homeclass">
+            <a class="nav-link active" href="#" onclick="HomeRedirect(event)">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#" onclick="Procedure(event)">Procedure</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="products.html" onclick="About(event)">About</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="faq.html" onclick="FAQs(event)">FAQs</a>
+        </li>
+    }
+</ul>

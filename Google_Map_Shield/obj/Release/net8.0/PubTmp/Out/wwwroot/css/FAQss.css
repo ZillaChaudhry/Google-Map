@@ -1,0 +1,57 @@
+﻿/* Body Styling */
+.faq-body {
+    background-color: #F4F6F9;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    margin-top: 70px;
+    padding: 0;
+}
+
+/* FAQ Section Title */
+.faq-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    background: linear-gradient(to right, #00509E, #007BFF); /* Gradient color */
+    -webkit-background-clip: text; /* Clip the background to text */
+    -webkit-text-fill-color: transparent; /* Transparent text to show gradient */
+    background-clip: text; /* Non-webkit browsers */
+    text-fill-color: transparent; /* Non-webkit browsers */
+    text-align: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .faq-title {
+        font-size: 2rem;
+        margin-top: 40px; /* Adjust for smaller screens */
+    }
+}
+
+/* Accordion Styling */
+.accordion-button {
+    background-color: transparent; /* Transparent background */
+    color: #002147; /* Dark blue text */
+    font-size: 18px;
+    border: none;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 8px; /* Rounded corners */
+    padding: 12px 20px; /* Add some padding for better spacing */
+    cursor: pointer; /* Add pointer to indicate it's clickable *
+}
+
+
+    .accordion-button:focus {
+        box-shadow: none;
+    }
+
+    .accordion-button:not(.collapsed) {
+        background-color:none; /* Bright blue when active */
+}
+
+.accordion-body {
+    background-color: #f9fafb;
+    font-size: 16px;
+}

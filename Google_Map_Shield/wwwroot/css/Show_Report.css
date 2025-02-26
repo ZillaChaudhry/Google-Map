@@ -1,0 +1,132 @@
+﻿/* Table styling */
+.beautiful-table {
+    width: 80%;
+    margin: 20px auto;
+    margin-top: 130px;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+    .beautiful-table th,
+    .beautiful-table td {
+        padding: 12px;
+        text-align: center;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .beautiful-table th {
+        background-color: #0056b3;
+        color: white;
+    }
+
+    .beautiful-table tr:hover {
+        background-color: #f1f1f1;
+    }
+
+/* Button styling */
+.btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn:hover {
+        background-color: #0056b3;
+    }
+
+/* Specific buttons styling */
+.btn-view {
+    background-color: #007bff;
+}
+
+.btn-video {
+    background-color: #007bff;
+}
+
+.btn-map {
+    background-color: #007bff;
+}
+
+.btn-delete {
+    background-color: red;
+}
+
+.btn-approve {
+    background-color: green;
+}
+
+.btn-delete:hover {
+    background-color: darkred;
+}
+
+.btn-approve:hover {
+    background-color: darkgreen;
+}
+
+/* Action buttons group styling */
+.action-buttons {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+/* Icon button */
+.icon-btn {
+    font-size: 14px;
+}
+
+
+/* Modal Styles */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Modal width */
+}
+
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer; /* Make the icon clickable */
+}
+
+    .close:hover, .close:focus {
+        color: red;
+        cursor: pointer;
+    }
+
+
+/* Default image style */
+.modal-content img {
+    width: 100%; /* Make image responsive on larger screens */
+}
+
+/* Adjust image size for mobile screens */
+@media (max-width: 600px) { /* Adjust the max-width as needed */
+    .modal-content img {
+        width: calc(100% - 50px); /* Reduce width by 50px on mobile */
+    }
+}
+
+

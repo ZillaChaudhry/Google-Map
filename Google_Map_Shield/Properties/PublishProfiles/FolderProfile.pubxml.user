@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\HP\source\repos\Google_Map_Shield\Google_Map_Shield\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-11-26T17:34:18.6611447Z;True|2024-11-26T10:33:51.1971237-05:00;True|2024-11-26T09:08:02.3884762-05:00;False|2024-11-26T09:07:26.0771705-05:00;True|2024-11-26T08:00:13.4745865-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

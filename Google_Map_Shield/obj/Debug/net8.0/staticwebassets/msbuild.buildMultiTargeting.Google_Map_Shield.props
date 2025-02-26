@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Google_Map_Shield.props" />
+</Project>

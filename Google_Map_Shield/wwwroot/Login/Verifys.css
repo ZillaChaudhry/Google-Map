@@ -1,0 +1,42 @@
+﻿.verification {
+    margin-top: 15px;
+    padding: 10px 20px; /* Adjust padding if needed */
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    border-radius: 20px; /* Rounded corners */
+    color: #fff; /* White text color */
+    text-align: center; /* Centered text */
+    font-size: 12px; /* Smaller font size */
+    font-weight: 700; /* Font weight */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide any overflow */
+    text-overflow: ellipsis; /* Add ellipsis if text overflows */
+}
+
+
+
+.title.verification {
+    height:80px!important;
+    align-content:center;
+    margin-top: 5% !important;
+    font-size: 20px !important; /* Adjust font size */
+    padding: 15px !important; /* Adjust padding */
+}
+
+@media (max-width: 777px) {
+    .title.verification {
+        margin-top:5%!important;
+        font-size: 20px; /* Adjust font size */
+        padding: 15px; /* Adjust padding */
+    }
+}
+
+@media (max-width: 500px) {
+    .title.verification {
+        margin-top: 5% !important;
+        font-size: 18px; /* Further adjust font size */
+        padding: 10px; /* Further adjust padding */
+    }
+}
+
+

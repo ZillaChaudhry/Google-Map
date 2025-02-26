@@ -1,0 +1,821 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Google_Map_Shield.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Google_Map_Shield.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Layout\\AdminLast.js",
+      "PackagePath": "staticwebassets\\Layout\\AdminLast.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Layout\\Details.js",
+      "PackagePath": "staticwebassets\\Layout\\Details.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Layout\\HomeLast.js",
+      "PackagePath": "staticwebassets\\Layout\\HomeLast.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Layout\\LoginLast.js",
+      "PackagePath": "staticwebassets\\Layout\\LoginLast.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\Logins.css",
+      "PackagePath": "staticwebassets\\Login\\Logins.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\Logins.js",
+      "PackagePath": "staticwebassets\\Login\\Logins.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ProfileImage\\5e2786ce-a56c-4eaf-aecf-f979636fe732.png",
+      "PackagePath": "staticwebassets\\Login\\ProfileImage\\5e2786ce-a56c-4eaf-aecf-f979636fe732.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ProfileImage\\6d5c55a0-339e-4703-931a-6c2121b82178.png",
+      "PackagePath": "staticwebassets\\Login\\ProfileImage\\6d5c55a0-339e-4703-931a-6c2121b82178.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ProfileImage\\8eef5f67-9893-44a8-9942-602fe2ffbb43.jpg",
+      "PackagePath": "staticwebassets\\Login\\ProfileImage\\8eef5f67-9893-44a8-9942-602fe2ffbb43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ProfileImage\\c3073578-769e-4ebb-b68a-3bf6f06ba6a4.jpg",
+      "PackagePath": "staticwebassets\\Login\\ProfileImage\\c3073578-769e-4ebb-b68a-3bf6f06ba6a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ProfileImage\\cf05557e-0a4a-4283-8a30-6d6eb57751a6.jpg",
+      "PackagePath": "staticwebassets\\Login\\ProfileImage\\cf05557e-0a4a-4283-8a30-6d6eb57751a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ProfileImage\\ed56bc98-2e78-4b8c-b3af-5f1fc42a0bef.jpg",
+      "PackagePath": "staticwebassets\\Login\\ProfileImage\\ed56bc98-2e78-4b8c-b3af-5f1fc42a0bef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\ResendButton.css",
+      "PackagePath": "staticwebassets\\Login\\ResendButton.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\UpdateProfiles.css",
+      "PackagePath": "staticwebassets\\Login\\UpdateProfiles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\Login\\Verifys.css",
+      "PackagePath": "staticwebassets\\Login\\Verifys.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Abouts.css",
+      "PackagePath": "staticwebassets\\css\\Abouts.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Admin_Login.css",
+      "PackagePath": "staticwebassets\\css\\Admin_Login.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\FAQss.css",
+      "PackagePath": "staticwebassets\\css\\FAQss.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Footer_Css.css",
+      "PackagePath": "staticwebassets\\css\\Footer_Css.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\HeaderElementPartail.css",
+      "PackagePath": "staticwebassets\\css\\HeaderElementPartail.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Images\\Login.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Login.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Images\\Map.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Map.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Images\\Report.png",
+      "PackagePath": "staticwebassets\\css\\Images\\Report.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\ReportPage.css",
+      "PackagePath": "staticwebassets\\css\\ReportPage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\Show_Report.css",
+      "PackagePath": "staticwebassets\\css\\Show_Report.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\procedure.css",
+      "PackagePath": "staticwebassets\\css\\procedure.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\procedurel.css",
+      "PackagePath": "staticwebassets\\css\\procedurel.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\js\\GoogleMaps.js",
+      "PackagePath": "staticwebassets\\js\\GoogleMaps.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\js\\marker-shadow (1).png",
+      "PackagePath": "staticwebassets\\js\\marker-shadow (1).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\js\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\js\\marker-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\template_css\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template_css\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\css\\slickss.css",
+      "PackagePath": "staticwebassets\\template_css\\css\\slickss.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\css\\tooplate-little-fashionss.css",
+      "PackagePath": "staticwebassets\\template_css\\css\\tooplate-little-fashionss.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\template_css\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\template_css\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\cody-lannom-G95AReIh_Ko-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\header\\businesspeople-meeting-office-working.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\header\\businesspeople-meeting-office-working.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\header\\positive-european-woman-has-break-after-work.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\header\\positive-european-woman-has-break-after-work.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\people\\beautiful-woman-face-portrait-brown-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\people\\portrait-british-woman.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\people\\portrait-british-woman.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\people\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\people\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\pim-chu-z6NZ76_UTDI-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\product\\anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\product\\evan-mcdougall-qnh1odlqOmk-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\product\\jordan-nix-CkCUvwMXAac-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\product\\nature-zen-3Dn1BZZv3m8-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\product\\quokkabottles-kFc1_G1GvKA-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\product\\team-fredi-8HRKoay8VJE-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\retail-shop-owner-mask-social-distancing-shopping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\signpost-5274077_1280.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\signpost-5274077_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\slideshow\\lock.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\slideshow\\lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\slideshow\\medium-shot-business-women-high-five.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\slideshow\\medium-shot-business-women-high-five.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\slideshow\\pixels.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\slideshow\\pixels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\slideshow\\sign.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\slideshow\\sign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\slideshow\\team-meeting-renewable-energy-project.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg",
+      "PackagePath": "staticwebassets\\template_css\\images\\slideshow\\two-business-partners-working-together-office-computer.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\images\\stop-634941_1280.jpg",
+      "PackagePath": "staticwebassets\\template_css\\images\\stop-634941_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\js\\Headroom.js",
+      "PackagePath": "staticwebassets\\template_css\\js\\Headroom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\template_css\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\js\\custom.js",
+      "PackagePath": "staticwebassets\\template_css\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\js\\jQuery.headroom.js",
+      "PackagePath": "staticwebassets\\template_css\\js\\jQuery.headroom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\template_css\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\template_css\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\template_css\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\00e20cae-6a4d-4670-a1b2-4e8c1995832a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\00e20cae-6a4d-4670-a1b2-4e8c1995832a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\019d24ef-d23e-4326-8671-0646ba38a71e.png",
+      "PackagePath": "staticwebassets\\uploads\\019d24ef-d23e-4326-8671-0646ba38a71e.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\0368d3d1-46fc-48bb-8ae4-a42317cee5f5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0368d3d1-46fc-48bb-8ae4-a42317cee5f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\03ee64c8-4475-4d08-98ea-7373569225f6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\03ee64c8-4475-4d08-98ea-7373569225f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\0f349559-af99-4262-8026-a5232b52516c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0f349559-af99-4262-8026-a5232b52516c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\1190b544-e898-4645-be82-0d1f789fbbbc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1190b544-e898-4645-be82-0d1f789fbbbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\150dcbf0-fd91-49f6-82de-859f7f9d0071.jpg",
+      "PackagePath": "staticwebassets\\uploads\\150dcbf0-fd91-49f6-82de-859f7f9d0071.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\15f43900-db7a-44e2-a9a7-b676a91bead9.png",
+      "PackagePath": "staticwebassets\\uploads\\15f43900-db7a-44e2-a9a7-b676a91bead9.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\17404c50-6ff2-4a3f-a2fa-a672af7335ee.jpg",
+      "PackagePath": "staticwebassets\\uploads\\17404c50-6ff2-4a3f-a2fa-a672af7335ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\188d37f0-dd50-4037-b561-8bc4cf541d23.png",
+      "PackagePath": "staticwebassets\\uploads\\188d37f0-dd50-4037-b561-8bc4cf541d23.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\193dcaea-8b6f-4b5a-a9d9-a962486584b9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\193dcaea-8b6f-4b5a-a9d9-a962486584b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\1cf49259-bdad-44d6-b721-4400be7e7690.png",
+      "PackagePath": "staticwebassets\\uploads\\1cf49259-bdad-44d6-b721-4400be7e7690.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\20ff0b7c-1cbf-4402-b531-d0cb9c1e4839.png",
+      "PackagePath": "staticwebassets\\uploads\\20ff0b7c-1cbf-4402-b531-d0cb9c1e4839.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\211a2599-92d6-480f-99bb-fe02cb4127b5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\211a2599-92d6-480f-99bb-fe02cb4127b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\2452102a-6733-46df-9d06-1c9f9be1ce6e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2452102a-6733-46df-9d06-1c9f9be1ce6e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\24859af1-98be-455b-99a1-524e1cd59605.jpg",
+      "PackagePath": "staticwebassets\\uploads\\24859af1-98be-455b-99a1-524e1cd59605.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\29864455-84e0-4c86-9c18-0888b268858e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\29864455-84e0-4c86-9c18-0888b268858e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\2b63dc35-8d1c-4b79-b30a-e69112fb9595.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2b63dc35-8d1c-4b79-b30a-e69112fb9595.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\353b8dc7-b90e-48a4-bec1-964d5abb3d1b.png",
+      "PackagePath": "staticwebassets\\uploads\\353b8dc7-b90e-48a4-bec1-964d5abb3d1b.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\395019b4-36dd-4b68-9b9a-1755cb1078a6.png",
+      "PackagePath": "staticwebassets\\uploads\\395019b4-36dd-4b68-9b9a-1755cb1078a6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\3a4c4c46-f703-4a00-970e-63092dd7e7d9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3a4c4c46-f703-4a00-970e-63092dd7e7d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\3c768475-a055-4ab3-93e8-56e1ac6571e0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3c768475-a055-4ab3-93e8-56e1ac6571e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\44e7c559-cf67-4b39-b4f9-f0a304e6d947.png",
+      "PackagePath": "staticwebassets\\uploads\\44e7c559-cf67-4b39-b4f9-f0a304e6d947.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\465f9d15-77e0-4246-ab1c-94453eb50e71.jpg",
+      "PackagePath": "staticwebassets\\uploads\\465f9d15-77e0-4246-ab1c-94453eb50e71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\480f7d11-69f4-4877-a12b-8ba637dd1c10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\480f7d11-69f4-4877-a12b-8ba637dd1c10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\4ca26bad-be07-4e0e-99cd-ec63f365b368.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4ca26bad-be07-4e0e-99cd-ec63f365b368.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\4ce06852-7860-46c2-8cda-621f572b1619.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4ce06852-7860-46c2-8cda-621f572b1619.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\4f2e35f3-c2d8-481b-91b9-d4582ce4fcd0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4f2e35f3-c2d8-481b-91b9-d4582ce4fcd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\50cd5868-5121-4cdc-9733-668f18f7f111.jpg",
+      "PackagePath": "staticwebassets\\uploads\\50cd5868-5121-4cdc-9733-668f18f7f111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\51926114-f0d7-4c52-9c01-d290568f19c0.png",
+      "PackagePath": "staticwebassets\\uploads\\51926114-f0d7-4c52-9c01-d290568f19c0.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\552b7daf-3ce2-4104-a9d8-bc3992cc911f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\552b7daf-3ce2-4104-a9d8-bc3992cc911f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\5e7fe72b-6aa0-4742-a41b-40606ec4756e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5e7fe72b-6aa0-4742-a41b-40606ec4756e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\630ed2a8-f920-4a8e-9c8c-bb507ff18656.png",
+      "PackagePath": "staticwebassets\\uploads\\630ed2a8-f920-4a8e-9c8c-bb507ff18656.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\660c627e-5c64-44ff-bd1c-2aa5229357e3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\660c627e-5c64-44ff-bd1c-2aa5229357e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\68a82330-bbf2-4f52-b291-6edbd299f00e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\68a82330-bbf2-4f52-b291-6edbd299f00e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\68d505f0-833d-46b2-8c33-7856168f2665.jpg",
+      "PackagePath": "staticwebassets\\uploads\\68d505f0-833d-46b2-8c33-7856168f2665.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\6a23a64b-a9a0-4dae-9cb6-b475d5b32ef8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6a23a64b-a9a0-4dae-9cb6-b475d5b32ef8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\6cf39498-a42c-41e4-976e-a3131525eaf5.png",
+      "PackagePath": "staticwebassets\\uploads\\6cf39498-a42c-41e4-976e-a3131525eaf5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\705c3bd0-eafb-42c6-b3d0-e7fee4e6de8c.png",
+      "PackagePath": "staticwebassets\\uploads\\705c3bd0-eafb-42c6-b3d0-e7fee4e6de8c.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\707ae7d7-544a-47c7-9ef8-2eabc1ffda8c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\707ae7d7-544a-47c7-9ef8-2eabc1ffda8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\7183a5dc-9755-4ce9-8841-aecbc9bcfc88.png",
+      "PackagePath": "staticwebassets\\uploads\\7183a5dc-9755-4ce9-8841-aecbc9bcfc88.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\71aaaea8-4b8b-4c7d-9a03-2aced54a1596.png",
+      "PackagePath": "staticwebassets\\uploads\\71aaaea8-4b8b-4c7d-9a03-2aced54a1596.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\762f1e83-3222-49fb-97af-c3f67a8d3115.png",
+      "PackagePath": "staticwebassets\\uploads\\762f1e83-3222-49fb-97af-c3f67a8d3115.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\8019939c-3a35-4780-a4a2-77d21bc0ffe5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8019939c-3a35-4780-a4a2-77d21bc0ffe5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\8051980b-479e-4ba0-95e3-b47e5506ce12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8051980b-479e-4ba0-95e3-b47e5506ce12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\8858c11a-562c-4f18-af1d-fc248ed82682.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8858c11a-562c-4f18-af1d-fc248ed82682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\8927d9ac-0c05-4d78-aa9c-0f34b9636514.png",
+      "PackagePath": "staticwebassets\\uploads\\8927d9ac-0c05-4d78-aa9c-0f34b9636514.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\8fcd09ea-32fe-4b6e-a6b3-89a43bcbf754.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8fcd09ea-32fe-4b6e-a6b3-89a43bcbf754.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\986399c9-4174-4d7a-92e4-acfe4ff15f72.jpg",
+      "PackagePath": "staticwebassets\\uploads\\986399c9-4174-4d7a-92e4-acfe4ff15f72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\98c6252c-574b-4dc0-b9ce-57ae4f16ec72.png",
+      "PackagePath": "staticwebassets\\uploads\\98c6252c-574b-4dc0-b9ce-57ae4f16ec72.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\9c98025c-c2f4-444f-9c85-f582983b8854.png",
+      "PackagePath": "staticwebassets\\uploads\\9c98025c-c2f4-444f-9c85-f582983b8854.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\Admin.png",
+      "PackagePath": "staticwebassets\\uploads\\Admin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\a9d98246-6151-436e-a59e-702dd17abbd1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a9d98246-6151-436e-a59e-702dd17abbd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\aa7450ef-8bcc-490c-8a36-8fcf3c62be13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\aa7450ef-8bcc-490c-8a36-8fcf3c62be13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\aae84e66-205f-4d97-ba43-f039ff60ed78.png",
+      "PackagePath": "staticwebassets\\uploads\\aae84e66-205f-4d97-ba43-f039ff60ed78.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\b2642bcc-d6b2-4a51-9b90-1656ad6f3ee4.png",
+      "PackagePath": "staticwebassets\\uploads\\b2642bcc-d6b2-4a51-9b90-1656ad6f3ee4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\b2767364-2872-4137-aced-a46f32e5c66a.png",
+      "PackagePath": "staticwebassets\\uploads\\b2767364-2872-4137-aced-a46f32e5c66a.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\b58b8457-39c4-4601-91ff-7b368e1ad862.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b58b8457-39c4-4601-91ff-7b368e1ad862.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\b6e1f017-a221-4dee-aaed-9d7fb7736417.png",
+      "PackagePath": "staticwebassets\\uploads\\b6e1f017-a221-4dee-aaed-9d7fb7736417.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\b725f112-d444-4a7e-bdf5-7920cf0f6c92.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b725f112-d444-4a7e-bdf5-7920cf0f6c92.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\bf3a23b6-88a6-4a0a-ae64-56bba2142872.png",
+      "PackagePath": "staticwebassets\\uploads\\bf3a23b6-88a6-4a0a-ae64-56bba2142872.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\bf6582b0-46a2-489e-8e60-4dcb629d5449.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\bf6582b0-46a2-489e-8e60-4dcb629d5449.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\c11d5c78-5767-46a2-af9b-d9fba23ead0b.png",
+      "PackagePath": "staticwebassets\\uploads\\c11d5c78-5767-46a2-af9b-d9fba23ead0b.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\c65ead99-9550-4e64-802c-514899de6a33.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c65ead99-9550-4e64-802c-514899de6a33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\c9ae8516-b811-430c-97d4-896aab66141f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c9ae8516-b811-430c-97d4-896aab66141f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\cd71a68f-6acd-4a14-816a-d192f760ad80.png",
+      "PackagePath": "staticwebassets\\uploads\\cd71a68f-6acd-4a14-816a-d192f760ad80.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\d0595910-607a-409c-a163-0277110d0cfa.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d0595910-607a-409c-a163-0277110d0cfa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\db36578c-985c-4296-9efd-89e8a33e5088.png",
+      "PackagePath": "staticwebassets\\uploads\\db36578c-985c-4296-9efd-89e8a33e5088.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\dc5199db-0410-4f13-875f-f49174f732a7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc5199db-0410-4f13-875f-f49174f732a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\dd994a2f-4c1c-4568-a8a4-abc23a240149.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dd994a2f-4c1c-4568-a8a4-abc23a240149.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\de75e963-4ed5-4568-8f68-ac5bcc435b88.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\de75e963-4ed5-4568-8f68-ac5bcc435b88.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\e5317239-abc6-4c23-88fe-161abe32db7b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e5317239-abc6-4c23-88fe-161abe32db7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\f2a0eff0-76ac-4891-b20e-8ad0a0caba60.png",
+      "PackagePath": "staticwebassets\\uploads\\f2a0eff0-76ac-4891-b20e-8ad0a0caba60.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Google_Map_Shield\\Google_Map_Shield\\wwwroot\\uploads\\fbe592dc-f1b7-47ab-8765-bd5aa68f87ae.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fbe592dc-f1b7-47ab-8765-bd5aa68f87ae.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Google_Map_Shield.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Google_Map_Shield.props",
+      "PackagePath": "build\\Google_Map_Shield.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Google_Map_Shield.props",
+      "PackagePath": "buildMultiTargeting\\Google_Map_Shield.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Google_Map_Shield.props",
+      "PackagePath": "buildTransitive\\Google_Map_Shield.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

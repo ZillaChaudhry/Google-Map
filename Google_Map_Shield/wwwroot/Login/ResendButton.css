@@ -1,0 +1,18 @@
+﻿/* styles.css */
+.RResendCodeid {
+    background-color: #3498db; /* Soft blue background for a clean look */
+    color: #fff; /* White text for contrast */
+    border: none; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 20px; /* Add padding */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Smooth transition */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+    /* Hover effect */
+    .RResendCodeid:hover {
+        background-color: #2980b9; /* Slightly darker blue on hover */
+        transform: scale(1.05); /* Slightly increase size on hover */
+    }

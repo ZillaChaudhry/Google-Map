@@ -1,0 +1,48 @@
+﻿body {
+    margin-top: 55px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #00509E, #007BFF); /* Apply gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.step {
+    margin-top: 0px;
+}
+
+    .step img {
+        max-width: 100%;
+        border-radius: 10px;
+    }
+
+    .step h3 {
+        background: linear-gradient(to right, #00509E, #007BFF);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+.step-number {
+    background: linear-gradient(to right, #00509E, #007BFF); /* Gradient for background */
+    color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.containerprocedure {
+    max-width: 900px;
+    margin: auto;
+    padding: 30px;
+}

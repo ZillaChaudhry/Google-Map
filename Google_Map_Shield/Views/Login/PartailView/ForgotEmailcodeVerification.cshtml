@@ -1,0 +1,29 @@
+﻿<link href="~/login/login.css" rel="stylesheet" />
+<link href="~/login/verifys.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+
+<div id="VerificationPage" style="margin-top:15%;margin-bottom:2%;">
+    <div class="title-text">
+        <div class="title verification">
+            Password Reset Page
+        </div>
+    </div>
+    <div class="form-container">
+        <div class="form-inner">
+            <form id="verificationForm" action="#" method="post" onsubmit="ForgotPasswordUpdated(event)">
+                <div class="field">
+                    <input type="text" name="newPassword" id="newPassword" placeholder="New Password" required>
+                </div>
+
+                <div class="field">
+                    <input type="text" name="oldPassword" id="oldPassword" placeholder="Confirm Password" required>
+                </div>
+                <div class="field btn">
+                    <div class="btn-layer"></div>
+                    <input type="submit" value="Reset">
+                </div>
+                
+            </form>
+        </div>
+    </div>
+</div>
